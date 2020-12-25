@@ -10,7 +10,7 @@ setuptools.setup(
     description = "A package for analysis of fi;s and books",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/Dandymarchuk/Mini_project/blob/main/setup.py",
+    url = "https://github.com/Dandymarchuk/Mini_project",
     packages = setuptools.find_packages(),
     classifiers = [
         "Programming Language :: Python :: 3",
