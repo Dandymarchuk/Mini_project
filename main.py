@@ -1,3 +1,0 @@
-import FilmFinder_Dymarchuk_Danylo
-
-FilmFinder_Dymarchuk_Danylo.main()
