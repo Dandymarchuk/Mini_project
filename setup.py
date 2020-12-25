@@ -7,10 +7,10 @@ setuptools.setup(
     version = "0.0.1",
     author = "Dymarchuk Danylo",
     author_email = "danylo.dymarchuk@ucu.edu.ua",
-    description = "A package for find favourite films",
+    description = "A package for analysis of fi;s and books",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = " ",
+    url = "https://github.com/Dandymarchuk/Mini_project/blob/main/setup.py",
     packages = setuptools.find_packages(),
     classifiers = [
         "Programming Language :: Python :: 3",
